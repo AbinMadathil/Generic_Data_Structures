@@ -1,0 +1,14 @@
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\bin\Debug\net7.0\Generic_stack.exe
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\bin\Debug\net7.0\Generic_stack.deps.json
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\bin\Debug\net7.0\Generic_stack.runtimeconfig.json
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\bin\Debug\net7.0\Generic_stack.dll
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\bin\Debug\net7.0\Generic_stack.pdb
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.AssemblyInfoInputs.cache
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.AssemblyInfo.cs
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.csproj.CoreCompileInputs.cache
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.dll
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\refint\Generic_stack.dll
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.pdb
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\Generic_stack.genruntimeconfig.cache
+C:\Users\abinm\Pictures\Console_Generic\Generic_stack\obj\Debug\net7.0\ref\Generic_stack.dll
